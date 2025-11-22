@@ -1,5 +1,7 @@
 # VerdantWatch – Decentralized Environmental Monitoring on Cardano
 
+[![Catalyst Fund15 Proposal](https://img.shields.io/badge/Catalyst-Fund15_Proposal-green)](https://projectcatalyst.io/)
+
 **Relentless Vigilance of Earth's vital resources.**
 
 VerdantWatch deploys low-cost, field-ready sensors that stream tamper-proof air quality, soil health, water contaminants (including PFAS/PFOS), and biodiversity data directly to Cardano. Every reading is timestamped, immutable, and instantly queryable — creating a global, verifiable "verdant pulse" that communities, researchers, governments, and enterprises can trust and act upon.

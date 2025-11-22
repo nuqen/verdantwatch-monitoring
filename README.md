@@ -9,7 +9,7 @@ By combining rugged hardware, edge computing, and Cardano’s energy-efficient l
 Currently advancing a funded proposal in **Project Catalyst Fund 15**.
 
 ## 🌿 Catalyst Fund15 Proposal
-[Insert final proposal link here after submission – e.g., https://cardano.ideascale.com/c/idea/XXXXXX]
+[Final proposal link here after submission – e.g., https://cardano.ideascale.com/c/idea/XXXXXX]
 
 ## 🚀 Current Status – November 2025
 - Working prototype: sensor → Cardano metadata transaction
@@ -41,6 +41,9 @@ Data verification: On-chain timestamps + Merkle proofs
 /dashboard → live React mock UI (deployed via GitHub Pages)
 /docs       → full Catalyst proposal PDF, detailed budget, milestones, risk analysis
 /data       → sample datasets & example queries
+
+## Impact for Cardano
+VerdantWatch leverages Cardano's efficiency to make environmental monitoring accessible and scalable, turning real-time eco-data into verifiable assets for global impact—aligning with Fund15's focus on transformative use cases
 
 ## Get Involved
 We’re actively seeking:

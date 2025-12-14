@@ -11,7 +11,7 @@ By combining rugged hardware, edge computing, and Cardano’s energy-efficient l
 Currently advancing a funded proposal in **Project Catalyst Fund 15**.
 
 ## 🌿 Catalyst Fund15 Proposal
-[Final proposal link here after submission – e.g., https://cardano.ideascale.com/c/idea/XXXXXX]
+https://reviews.projectcatalyst.io/proposal/2087
 
 ## 🚀 Current Status – November 2025
 - Working prototype: sensor → Cardano metadata transaction

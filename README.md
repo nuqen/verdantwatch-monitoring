@@ -13,8 +13,9 @@ Currently advancing a funded proposal in **Project Catalyst Fund 15**.
 ## 🌿 Catalyst Fund15 Proposal
 https://reviews.projectcatalyst.io/proposal/2087
 
-## 🚀 Current Status – November 2025
-- Working prototype: sensor → Cardano metadata transaction
+## 🚀 Current Status – November - December 2025
+- Review and selection of field sensor
+- Working plan for prototype: sensor → Cardano metadata transaction
 - Mock dashboard with live-updating data visualization
 - Full proposal, budget, milestones, and impact metrics in `/docs`
 - `/code` contains real runnable scripts

